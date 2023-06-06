@@ -15,3 +15,15 @@
 </table>
 
 This is a Employee Management application developed using Jhipster platform. It uses Spring boot, Gradle, MongoDB, Hazelcast and Elasticsearch.
+
+## JHipster
+
+JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+
+Install Java, Git and Node.js first.
+
+Install JHipster 
+
+```cmd
+npm install -g generator-jhipster
+```
