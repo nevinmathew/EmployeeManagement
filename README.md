@@ -36,4 +36,5 @@ jhipster
 ## Hazelcast
 
 To download the Hazelcast platform, [click here]
-[click here]: https://hazelcast.com/open-source-projects/downloads/ "HazelCast open source downloads"
+
+[click here]: https://hazelcast.com/open-source-projects/downloads
