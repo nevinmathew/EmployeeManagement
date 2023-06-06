@@ -22,8 +22,12 @@ JHipster is a development platform to quickly generate, develop, & deploy modern
 
 Install Java, Git and Node.js first.
 
-Install JHipster 
-
+Install JHipster:
 ```cmd
 npm install -g generator-jhipster
+```
+
+To run JHipster, enter the following command and follow instructions on screen
+```cmd
+jhipster
 ```
