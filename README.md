@@ -32,18 +32,22 @@ To run JHipster, enter the following command and follow instructions on screen
 ```cmd
 jhipster
 ```
+## Hazelcast
+
+MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. [Click on this] to install the community version.
 
 ## Elastic Search
 
 Elasticsearch is the distributed search and analytics engine at the heart of the Elastic Stack. Logstash and Beats facilitate collecting, aggregating, and enriching your data and storing it in Elasticsearch. Kibana enables you to interactively explore, visualize, and share insights into your data and manage and monitor the stack. Elasticsearch is where the indexing, search, and analysis magic happens. Elasticsearch provides near real-time search and analytics for all types of data.
 
-To set up Elasticsearch, [follow this guide]
+To set up Elasticsearch, [follow this guide].
 
 ## Hazelcast
 
 Hazelcast is an in-memory distributed cache. The goal of In-Memory Data Grids (IMDG) is to provide extremely high availability of data by keeping it in memory and in a highly distributed fashion.
 
-You can view the hazelcast performance details via Hazelcast management centre application. To configure this, you first need to download the application. To download the Hazelcast platform, [click here]
+You can view the hazelcast performance details via Hazelcast management centre application. To configure this, you first need to download the application. To download the Hazelcast platform, [click here].
 
+[Click on this]: https://www.mongodb.com/docs/manual/administration/install-community/
 [follow this guide]: https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html
 [click here]: https://hazelcast.com/open-source-projects/downloads
