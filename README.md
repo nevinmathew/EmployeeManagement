@@ -32,3 +32,7 @@ To run JHipster, enter the following command and follow instructions on screen
 ```cmd
 jhipster
 ```
+
+## Hazelcast
+
+To download the Hazelcast platform, [click here] (https://hazelcast.com/open-source-projects/downloads/ "HazelCast open source downloads")
