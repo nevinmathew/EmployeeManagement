@@ -38,7 +38,6 @@ jhipster
 Elasticsearch is the distributed search and analytics engine at the heart of the Elastic Stack. Logstash and Beats facilitate collecting, aggregating, and enriching your data and storing it in Elasticsearch. Kibana enables you to interactively explore, visualize, and share insights into your data and manage and monitor the stack. Elasticsearch is where the indexing, search, and analysis magic happens. Elasticsearch provides near real-time search and analytics for all types of data.
 
 To set up Elasticsearch, [follow this guide]
-[follow this guide]: https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html
 
 ## Hazelcast
 
@@ -46,4 +45,5 @@ Hazelcast is an in-memory distributed cache. The goal of In-Memory Data Grids (I
 
 You can view the hazelcast performance details via Hazelcast management centre application. To configure this, you first need to download the application. To download the Hazelcast platform, [click here]
 
+[follow this guide]: https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html
 [click here]: https://hazelcast.com/open-source-projects/downloads
