@@ -32,9 +32,9 @@ To run JHipster, enter the following command and follow instructions on screen
 ```cmd
 jhipster
 ```
-## Hazelcast
+## MongoDB
 
-MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. [Click on this] to install the community version.
+MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. [Click on this] to download and install the community edition.
 
 ## Elastic Search
 
