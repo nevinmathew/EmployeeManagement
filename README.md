@@ -33,6 +33,7 @@ The **Employee Management** application is a robust and feature-rich software so
 [JHipster](https://www.jhipster.tech/) is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 
 **Installation**:
+
 Install Java, Git and Node.js first.
 
 Install JHipster:
@@ -53,7 +54,7 @@ jhipster
 
 Elasticsearch is the distributed search and analytics engine at the heart of the Elastic Stack. Logstash and Beats facilitate collecting, aggregating, and enriching your data and storing it in Elasticsearch. Kibana enables you to interactively explore, visualize, and share insights into your data and manage and monitor the stack. Elasticsearch is where the indexing, search, and analysis magic happens, providing near real-time search and analytics for all types of data.
 
-**To set up Elasticsearch**, [follow this guide](https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html).
+To set up Elasticsearch, [follow this guide](https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html).
 
 ### Hazelcast
 
