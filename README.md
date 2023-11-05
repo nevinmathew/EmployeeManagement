@@ -34,17 +34,19 @@ The **Employee Management** application is a robust and feature-rich software so
 
 **Installation**:
 
-Install Java, Git and Node.js first.
+1. Install Java, Git, and Node.js first.
 
-Install JHipster:
-```cmd
-npm install -g generator-jhipster
-```
+2. Install JHipster:
 
-To run JHipster, enter the following command and follow instructions on screen
-```cmd
-jhipster
-```
+    ```cmd
+    npm install -g generator-jhipster
+    ```
+
+3. To run JHipster, enter the following command and follow the instructions on the screen:
+
+    ```cmd
+    jhipster
+    ```
 
 ### MongoDB
 
