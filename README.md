@@ -15,7 +15,7 @@ The **Employee Management** application is a robust and feature-rich software so
 <table>
     <tbody>
         <tr valign="top">
-            <td> <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/viruzvz/logos-svg/blob/master/java.svg" title="Java" alt="java" width="40" height="40"/> </a> </td>
+            <td> <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="java" width="40" height="40"/> </a> </td>
             <td> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring Boot" alt="spring" width="40" height="40"/> </a> </td>
             <td> <p align="left"> <a href="https://www.jhipster.tech/" target="_blank" rel="noreferrer"> <img src="https://www.jhipster.tech/jhipster-artwork/logos/JHipster%20bowtie%20-%20square.png" title="JHipster" alt="jhipster" width="40" height="40"/> </a> </td>
             <td> <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://s3-symbol-logo.tradingview.com/mongodb--big.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/> </a> </td>
