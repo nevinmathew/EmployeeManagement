@@ -4,6 +4,10 @@
 
 - [Description](#description)
 - [Languages and Tools](#languages-and-tools)
+    - [JHipster](#jhipster)
+    - [MongoDB](#mongodb)
+    - [Elastic Search](#elastic-search)
+    - [Hazelcast](#hazelcast)    
 - [Additional Resources](#additional-resources)
 
 ## Description
@@ -25,8 +29,6 @@ The **Employee Management** application is a robust and feature-rich software so
         </tr>
     </tbody>
 </table>
-
-
 
 ### JHipster
 
